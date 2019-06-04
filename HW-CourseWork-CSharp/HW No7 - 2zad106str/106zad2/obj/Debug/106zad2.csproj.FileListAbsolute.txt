@@ -1,0 +1,7 @@
+/home/mrxt/Documents/HomeWork-C--master/106zad2/106zad2/bin/Debug/106zad2.exe.config
+/home/mrxt/Documents/HomeWork-C--master/106zad2/106zad2/bin/Debug/106zad2.exe
+/home/mrxt/Documents/HomeWork-C--master/106zad2/106zad2/bin/Debug/106zad2.pdb
+/home/mrxt/Documents/HomeWork-C--master/106zad2/106zad2/obj/Debug/106zad2.csprojAssemblyReference.cache
+/home/mrxt/Documents/HomeWork-C--master/106zad2/106zad2/obj/Debug/106zad2.csproj.CoreCompileInputs.cache
+/home/mrxt/Documents/HomeWork-C--master/106zad2/106zad2/obj/Debug/106zad2.exe
+/home/mrxt/Documents/HomeWork-C--master/106zad2/106zad2/obj/Debug/106zad2.pdb

@@ -1,0 +1,7 @@
+/home/mrxt/Documents/HomeWork-C--master/Palindrom/Palindrom/bin/Debug/Palindrom.exe.config
+/home/mrxt/Documents/HomeWork-C--master/Palindrom/Palindrom/bin/Debug/Palindrom.exe
+/home/mrxt/Documents/HomeWork-C--master/Palindrom/Palindrom/bin/Debug/Palindrom.pdb
+/home/mrxt/Documents/HomeWork-C--master/Palindrom/Palindrom/obj/Debug/Palindrom.csprojAssemblyReference.cache
+/home/mrxt/Documents/HomeWork-C--master/Palindrom/Palindrom/obj/Debug/Palindrom.csproj.CoreCompileInputs.cache
+/home/mrxt/Documents/HomeWork-C--master/Palindrom/Palindrom/obj/Debug/Palindrom.exe
+/home/mrxt/Documents/HomeWork-C--master/Palindrom/Palindrom/obj/Debug/Palindrom.pdb
